@@ -1,0 +1,4 @@
+name: "btree"
+appmap_dir: "tmp/appmap"
+packages:
+- path: "com.btree"
